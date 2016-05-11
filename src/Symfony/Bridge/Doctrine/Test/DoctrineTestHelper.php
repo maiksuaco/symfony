@@ -14,7 +14,7 @@ namespace Symfony\Bridge\Doctrine\Test;
 use Doctrine\Common\Annotations\AnnotationReader;
 use Doctrine\ORM\Mapping\Driver\AnnotationDriver;
 use Doctrine\ORM\EntityManager;
-
+//TESTEANDO
 /**
  * Provides utility functions needed in tests.
  *
